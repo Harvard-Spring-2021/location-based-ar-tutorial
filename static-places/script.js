@@ -41,7 +41,7 @@ var models = [
     },
     {
         url: './assets/voter/model1.gltf',
-        scale: '0.02 0.02 0.02',
+        scale: '0.2 0.2 0.2',
         rotation: '0 90 0',
         info: 'Voting Example 1',
     },
