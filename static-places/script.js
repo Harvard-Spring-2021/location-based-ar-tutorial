@@ -39,6 +39,12 @@ var models = [
         rotation: '0 90 0',
         info: 'Dragonite, Lv. 55, HP 150/150',
     },
+    {
+        url: './assets/voter/model1.gltf',
+        scale: '0.02 0.02 0.02',
+        rotation: '0 90 0',
+        info: 'Voting Example 1',
+    },
 ];
 
 var modelIndex = 0;
