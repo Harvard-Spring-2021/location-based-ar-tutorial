@@ -12,4 +12,4 @@ These three, basic projects are used on [this tutorial](https://medium.com/chial
 
 Have fun! 🌍
 
-Live URL (i.e. for v3 folder): [https://harvard-spring-2021.github.io/location-based-ar-tutorial/static-on-html](https://harvard-spring-2021.github.io/location-based-ar-tutorial/static-on-html)
+Live URL (i.e. for v3 folder): [https://harvard-spring-2021.github.io/location-based-ar-tutorial/static-on-html](https://harvard-spring-2021.github.io/location-based-ar-tutorial/static-places)
